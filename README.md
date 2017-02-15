@@ -1,6 +1,7 @@
 1.Hadoop in layman's term: Hadoop is an open source, Java-based programming framework that supports the processing and storage of extremely large data sets in a distributed computing environment. It is part of the Apache project sponsored by the Apache Software Foundation. It is divided into two components namely: a)Storage-HDFS b)Processing-MapReduce,pig,hiv
-.
 
+
+2. Explain the components of Hadoop Framework
 
 HDFS (storage) and MapReduce (processing) are the two core components of Apache Hadoop. The most important aspect of Hadoop is that both HDFS and MapReduce are designed with each other in mind and each are co-deployed such that there is a single cluster and thus pro¬vides the ability to move computation to the data not the other way around. Thus, the storage system is not physically separate from a processing system
 Hadoop Distributed File System (HDFS)
